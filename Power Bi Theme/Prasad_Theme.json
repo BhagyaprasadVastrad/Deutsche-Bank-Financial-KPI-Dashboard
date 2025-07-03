@@ -1,0 +1,14 @@
+{
+  "name": "Financial KPI Dashboard Theme",
+  "dataColors": [
+    "#003366",
+    "#0073e6",
+    "#00b386",
+    "#ff9933",
+    "#999999",
+    "#cc0000"
+  ],
+  "background": "#ffffff",
+  "foreground": "#000000",
+  "tableAccent": "#003366"
+}
