@@ -24,6 +24,8 @@ Key columns: Revenue, Net Income, Expenses, Profit Margin %, Cash Flow, Debt-to-
 
 ### 🔷 My Project Workflow
 
+![Screenshot 2025-07-04 032431](https://github.com/user-attachments/assets/994bb609-5cc2-4000-bb52-06d1c5c891c4)
+
 #### 1. Data Cleaning (SQL)
 Imported the raw CSV into Azure SQL Database via SSMS
 
